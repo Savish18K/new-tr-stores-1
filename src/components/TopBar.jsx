@@ -12,7 +12,7 @@ export default function TopBar() {
           </a>
           <a href="https://wa.me/94772352452" className="topbar__item">
             <WhatsAppIcon color="#e0a537" />
-            <span>077 235 2452</span>
+            <span>070 735 2451</span>
           </a>
           <a href="mailto:info@newtrstores.com" className="topbar__item">
             <MailIcon />

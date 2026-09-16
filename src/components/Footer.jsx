@@ -56,7 +56,7 @@ export default function Footer() {
           <ul className="footer__contact">
             <li><PinIcon size={20} /><span>43 Ambagamuwa Road,<br />Gampola, Sri Lanka</span></li>
             <li><PhoneIcon size={19} /><span>+94 81 235 2452</span></li>
-            <li><WhatsAppIcon size={19} color="#e0a537" /><span>077 235 2452</span></li>
+            <li><WhatsAppIcon size={19} color="#e0a537" /><span>070 735 2451</span></li>
             <li><MailIcon size={19} /><span>info@newtrstores.com</span></li>
             <li><GlobeIcon size={19} /><span>www.newtrstores.com</span></li>
           </ul>
@@ -111,7 +111,7 @@ export default function Footer() {
             for healthy living
           </p>
         </div>
-      </div>
-    </footer>
+      </div>   
+    </footer>        
   )
 }

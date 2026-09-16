@@ -49,7 +49,7 @@ export default function StoreSection() {
             </div>
             <div className="store__row">
               <span className="store__icon-ring store__icon-ring--wa"><WhatsAppIcon size={40} bg /></span>
-              <p>077 235 2452</p>
+              <p>070 735 2451</p>
             </div>
           </div>
         </div>
